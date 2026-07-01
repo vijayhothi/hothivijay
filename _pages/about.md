@@ -7,58 +7,25 @@ redirect_from:
   - /about.html
 ---
 
-PhD Research Scholar | AI Researcher | Speech Processing & Deep Learning Specialist
+I am a Research Scholar in the Department of Electronics and Communication Engineering at **Gujarat Technological University (GTU)**, Ahmedabad, India. My research focuses on **speaker diarization** — the task of automatically segmenting audio recordings to identify *who spoke when* — with applications in meeting transcription, conversational AI, speech analytics, and edge computing.
 
-I am a PhD Research Scholar in Electronics and Communication Engineering at Gujarat Technological University, Ahmedabad, and a Lecturer (Class-II) at Dr. Jivraj N. Mehta Government Polytechnic, Amreli. My work sits at the intersection of speech processing, deep learning, and audio intelligence, with a strong focus on speaker diarization in complex multi-speaker environments.
+My work sits at the intersection of **deep learning**, **audio signal processing**, and **edge AI**, with a particular emphasis on building robust, noise-tolerant diarization systems suitable for real-world, multi-speaker environments and resource-constrained IoT devices.
 
-## Research Focus
+## Research Interests
 
-My current research explores deep learning approaches for speaker diarization, including speaker embeddings, clustering methods, segmentation, and robust modeling for overlapping and noisy audio. I am particularly interested in building practical systems that improve speaker identification, separation, and benchmarking for real-world speech applications.
+* **Speaker Diarization** — multi-speaker segmentation, overlapping speech detection
+* **Speaker Embeddings** — discriminative feature learning with TDNN/x-vector architectures
+* **Speech Processing** — robust speech recognition under noise and reverberation
+* **Deep Learning** — adaptive neural architectures, data augmentation strategies
+* **Edge AI** — lightweight models for IoT and embedded deployment
 
-## Core Expertise
+## News
 
-- Speaker diarization
-- Speech processing
-- Deep learning
-- Generative AI
-- Large language models
-- Audio intelligence
-- AI for signal processing
-
-## Professional Highlights
-
-- Pursuing a **Ph.D. in Electronics and Communication Engineering** at Gujarat Technological University (2023-2027 expected)
-- Serving as **Lecturer (Class-II)** at Dr. Jivraj N. Mehta Government Polytechnic, Amreli since 2016
-- Gold Medalist in **M.E. in Communication Systems** with a CPI of 8.51/10
-- Research and publication record spanning **speaker diarization, speech AI, and wireless communication systems**
+* **2025** — Paper accepted at the **11th International Conference on Pattern Recognition and Machine Intelligence (PReMI 2025)**: *Adaptive Multi-Scale Speaker Diarization on DISPLACE 2024 Challenge Task* (Springer LNCS).
+* **2025** — Journal article published in the **International Journal of Advances in Signal and Image Sciences (IJASIS)**, Vol. 11 No. 6s: *Enhanced Speaker Embeddings With Adaptive Feature Aggregation For Robust Speaker Diarization*.
 
 ## Selected Publications
 
-- *Enhanced Speaker Embeddings With Adaptive Feature Aggregation for Robust Speaker Diarization* — IJASIS, 2026
-- *Adaptive Multi-scale Speaker Diarization on DISPLACE 2024 Challenge Task* — PReMI 2024 / Springer LNCS, 2026
-- *Neural Speaker Diarization from End-to-End to Foundation Models: A Critical Survey of Architectures, Benchmarks, and Open Problems (2019-2026)* — IJNGC, 2026
+1. **Vijay Hothi**, N. B. Gohil, Mehul K. Vala, Devang G. Jani, Dhaval R. Bhojani, Rushi J. Trivedi. *Enhanced Speaker Embeddings With Adaptive Feature Aggregation For Robust Speaker Diarization.* International Journal of Advances in Signal and Image Sciences, Vol. 11 No. 6s, 2025.
 
-For the full list, visit the [Publications]({{ '/publications/' | relative_url }}) page.
-
-## Teaching Areas
-
-I teach and mentor students in:
-
-- Python programming
-- Java programming
-- Embedded systems and IoT
-- Data structures and algorithms
-- Artificial intelligence
-- Cyber security
-
-## Certifications and Training
-
-My continuing education includes training in large language models, natural language processing, deep learning, Google Cloud foundations, speaker recognition, RF systems, semiconductor technologies, 5G, and AI/ML for IoT.
-
-## Contact
-
-- **Email:** [hothivijay@gmail.com](mailto:hothivijay@gmail.com)
-- **Phone:** +91 94263 71579
-- **Location:** Gujarat, India
-- **LinkedIn:** [hothi-vijay-4a952356](https://www.linkedin.com/in/hothi-vijay-4a952356/)
-- **GitHub:** [hothivijay](https://github.com/hothivijay)
+2. Ravindrakumar M. Purohit, **Vijay Hothi**, Hemant Patil. *Adaptive Multi-Scale Speaker Diarization on DISPLACE 2024 Challenge Task.* In: Proceedings of PReMI 2025, Lecture Notes in Computer Science, Springer.

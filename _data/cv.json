@@ -1,178 +1,120 @@
 {
   "basics": {
     "name": "Vijay Hothi",
-    "email": "hothivijay@gmail.com",
-    "phone": "+91 94263 71579",
-    "website": "https://vijayhothi.github.io/hothivijay",
-    "summary": "PhD Research Scholar, AI Researcher, and Speech Processing specialist focused on speaker diarization and deep learning.",
+    "email": "",
+    "phone": "",
+    "website": "https://hothivijay.github.io",
+    "summary": "Research Scholar in Electronics and Communication Engineering at Gujarat Technological University, Ahmedabad, India. Specializing in speaker diarization, deep learning for speech processing, and edge AI.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Gujarat",
+      "city": "Ahmedabad",
       "countryCode": "IN",
-      "region": "India"
+      "region": "Gujarat"
     },
     "profiles": [
-      {
-        "network": "LinkedIn",
-        "username": "hothi-vijay-4a952356",
-        "url": "https://www.linkedin.com/in/hothi-vijay-4a952356/"
-      },
       {
         "network": "GitHub",
         "username": "hothivijay",
         "url": "https://github.com/hothivijay"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "hothi-vijay-4a952356",
+        "url": "https://www.linkedin.com/in/hothi-vijay-4a952356/"
       }
     ]
   },
   "work": [
     {
-      "name": "Gujarat Technological University",
-      "position": "PhD Research Scholar",
-      "startDate": "2023",
-      "summary": "Researching speaker identification and speaker separation using deep learning methods."
-    },
-    {
-      "name": "Dr. Jivraj N. Mehta Government Polytechnic, Amreli",
-      "position": "Lecturer (Class-II)",
-      "startDate": "2016-11",
-      "summary": "Teaching IoT, Embedded Systems, Artificial Intelligence, and mentoring student projects."
-    },
-    {
-      "name": "Bharat Sanchar Nigam Limited (BSNL), Amreli",
-      "position": "Junior Engineer",
-      "startDate": "2013",
-      "endDate": "2016",
-      "summary": "Maintained communication systems and contributed to automation projects."
-    },
-    {
-      "name": "Hitachi-Hirel Power Electronics Limited, Gandhinagar",
-      "position": "R&D Engineer / Junior Engineer",
-      "startDate": "2012",
-      "endDate": "2012",
-      "summary": "Supported advanced power electronics and embedded solutions."
+      "company": "Gujarat Technological University",
+      "position": "Research Scholar (Ph.D.)",
+      "website": "https://www.gtu.ac.in",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Conducting research on speaker diarization, robust speaker embeddings, and edge AI for speech processing.",
+      "highlights": []
     }
   ],
   "education": [
     {
-      "institution": "Gujarat Technological University, Ahmedabad",
+      "institution": "Gujarat Technological University",
       "area": "Ph.D. in Electronics and Communication Engineering",
-      "studyType": "",
-      "startDate": "2023",
-      "endDate": "2027"
+      "studyType": "Ph.D.",
+      "startDate": "",
+      "endDate": "",
+      "gpa": null,
+      "courses": []
     },
     {
-      "institution": "Shantilal Shah Engineering College, Bhavnagar / Gujarat Technological University",
-      "area": "M.E. in Communication Systems",
-      "studyType": "",
-      "startDate": "2021",
-      "endDate": "2023"
-    },
-    {
-      "institution": "Vishwakarma Government Engineering College, Ahmedabad / Gujarat Technological University",
-      "area": "B.E. in Electronics & Communication",
-      "studyType": "",
-      "startDate": "2008",
-      "endDate": "2012"
+      "institution": "Gujarat Technological University",
+      "area": "M.Tech. in Electronics and Communication Engineering",
+      "studyType": "M.Tech.",
+      "startDate": "",
+      "endDate": "",
+      "gpa": null,
+      "courses": []
     }
   ],
   "skills": [
     {
       "name": "Programming",
-      "keywords": [
-        "Python",
-        "C++",
-        "Java",
-        "SQL"
-      ]
+      "keywords": ["Python", "MATLAB"]
     },
     {
       "name": "Deep Learning",
-      "keywords": [
-        "TensorFlow",
-        "PyTorch",
-        "Kaldi"
-      ]
+      "keywords": ["PyTorch", "TensorFlow", "Keras"]
     },
     {
-      "name": "Research Areas",
-      "keywords": [
-        "Speaker Diarization",
-        "Speech Processing",
-        "Audio Intelligence"
-      ]
+      "name": "Speech Toolkits",
+      "keywords": ["Kaldi", "SpeechBrain", "pyannote-audio"]
+    },
+    {
+      "name": "Audio Processing",
+      "keywords": ["librosa", "SciPy", "soundfile"]
     }
   ],
-  "languages": [
-    {
-      "language": "English"
-    },
-    {
-      "language": "Hindi"
-    },
-    {
-      "language": "Gujarati"
-    }
-  ],
+  "languages": [],
   "interests": [
     {
-      "name": "Reading"
+      "name": "Speaker Diarization"
     },
     {
-      "name": "Cycling"
+      "name": "Speech Processing"
     },
     {
-      "name": "Swimming"
+      "name": "Deep Learning"
+    },
+    {
+      "name": "Edge AI"
     }
   ],
   "references": [],
   "publications": [
     {
-      "name": "Enhanced Speaker Embeddings With Adaptive Feature Aggregation for Robust Speaker Diarization",
-      "publisher": "IJASIS",
-      "releaseDate": "2026-06-01",
-      "website": "https://www.xlescience.org/index.php/IJASIS/article/view/1525",
-      "summary": "Robust speaker diarization using adaptive feature aggregation."
+      "name": "Enhanced Speaker Embeddings With Adaptive Feature Aggregation For Robust Speaker Diarization",
+      "publisher": "International Journal of Advances in Signal and Image Sciences (IJASIS)",
+      "releaseDate": "2025-01-01",
+      "website": "https://xlescience.org/index.php/IJASIS/article/view/1525",
+      "summary": "Proposes AFA-TDNN for discriminative speaker embeddings with Batch-Adaptive Data Augmentation (BADA), achieving DER 2.23% on AMI Meeting Corpus."
     },
     {
-      "name": "Adaptive Multi-scale Speaker Diarization on DISPLACE 2024 Challenge Task",
-      "publisher": "PReMI 2024",
-      "releaseDate": "2026-04-21",
-      "website": "https://rdcu.be/fkkvU",
-      "summary": "Adaptive multi-scale diarization framework evaluated on DISPLACE 2024."
+      "name": "Adaptive Multi-Scale Speaker Diarization on DISPLACE 2024 Challenge Task",
+      "publisher": "PReMI 2025, Lecture Notes in Computer Science, Springer",
+      "releaseDate": "2025-06-01",
+      "website": "https://link.springer.com/chapter/10.1007/978-3-032-18480-1_80",
+      "summary": "Adaptive multi-scale diarization system for the DISPLACE 2024 Challenge targeting far-field multilingual conversational speech."
     }
   ],
-  "presentations": [],
-  "teaching": [
+  "presentations": [
     {
-      "course": "Artificial Intelligence and Data Instruction",
-      "institution": "Dr. Jivraj N. Mehta Government Polytechnic, Amreli",
-      "date": "2016-11-01",
-      "role": "Teaching and mentoring",
-      "description": "AI, data structures, and applied computing instruction."
-    },
-    {
-      "course": "Programming Instruction",
-      "institution": "Dr. Jivraj N. Mehta Government Polytechnic, Amreli",
-      "date": "2016-11-01",
-      "role": "Teaching and mentoring",
-      "description": "Python and Java programming guidance."
+      "name": "Adaptive Multi-Scale Speaker Diarization on DISPLACE 2024 Challenge Task",
+      "event": "11th International Conference on Pattern Recognition and Machine Intelligence (PReMI 2025)",
+      "date": "2025-06-01",
+      "location": "India",
+      "description": ""
     }
   ],
-  "portfolio": [
-    {
-      "name": "Speaker Diarization Research",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Deep learning research on speaker identification and separation."
-    },
-    {
-      "name": "AI and IoT Curriculum Development",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Curriculum design and student mentoring in AI, IoT, and embedded systems."
-    }
-  ]
+  "teaching": [],
+  "portfolio": []
 }
