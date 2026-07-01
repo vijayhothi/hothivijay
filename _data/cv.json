@@ -1,152 +1,178 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Vijay Hothi",
+    "email": "hothivijay@gmail.com",
+    "phone": "+91 94263 71579",
+    "website": "https://vijayhothi.github.io/hothivijay",
+    "summary": "PhD Research Scholar, AI Researcher, and Speech Processing specialist focused on speaker diarization and deep learning.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Gujarat",
+      "countryCode": "IN",
+      "region": "India"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "network": "LinkedIn",
+        "username": "hothi-vijay-4a952356",
+        "url": "https://www.linkedin.com/in/hothi-vijay-4a952356/"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "hothivijay",
+        "url": "https://github.com/hothivijay"
       }
     ]
   },
-  "work": [],
-  "education": [
+  "work": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "name": "Gujarat Technological University",
+      "position": "PhD Research Scholar",
+      "startDate": "2023",
+      "summary": "Researching speaker identification and speaker separation using deep learning methods."
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
+      "name": "Dr. Jivraj N. Mehta Government Polytechnic, Amreli",
+      "position": "Lecturer (Class-II)",
+      "startDate": "2016-11",
+      "summary": "Teaching IoT, Embedded Systems, Artificial Intelligence, and mentoring student projects."
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
+      "name": "Bharat Sanchar Nigam Limited (BSNL), Amreli",
+      "position": "Junior Engineer",
+      "startDate": "2013",
+      "endDate": "2016",
+      "summary": "Maintained communication systems and contributed to automation projects."
+    },
+    {
+      "name": "Hitachi-Hirel Power Electronics Limited, Gandhinagar",
+      "position": "R&D Engineer / Junior Engineer",
+      "startDate": "2012",
       "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "summary": "Supported advanced power electronics and embedded solutions."
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+  "education": [
+    {
+      "institution": "Gujarat Technological University, Ahmedabad",
+      "area": "Ph.D. in Electronics and Communication Engineering",
+      "studyType": "",
+      "startDate": "2023",
+      "endDate": "2027"
+    },
+    {
+      "institution": "Shantilal Shah Engineering College, Bhavnagar / Gujarat Technological University",
+      "area": "M.E. in Communication Systems",
+      "studyType": "",
+      "startDate": "2021",
+      "endDate": "2023"
+    },
+    {
+      "institution": "Vishwakarma Government Engineering College, Ahmedabad / Gujarat Technological University",
+      "area": "B.E. in Electronics & Communication",
+      "studyType": "",
+      "startDate": "2008",
+      "endDate": "2012"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "keywords": [
+        "Python",
+        "C++",
+        "Java",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Deep Learning",
+      "keywords": [
+        "TensorFlow",
+        "PyTorch",
+        "Kaldi"
+      ]
+    },
+    {
+      "name": "Research Areas",
+      "keywords": [
+        "Speaker Diarization",
+        "Speech Processing",
+        "Audio Intelligence"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English"
+    },
+    {
+      "language": "Hindi"
+    },
+    {
+      "language": "Gujarati"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Reading"
+    },
+    {
+      "name": "Cycling"
+    },
+    {
+      "name": "Swimming"
+    }
+  ],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Enhanced Speaker Embeddings With Adaptive Feature Aggregation for Robust Speaker Diarization",
+      "publisher": "IJASIS",
+      "releaseDate": "2026-06-01",
+      "website": "https://www.xlescience.org/index.php/IJASIS/article/view/1525",
+      "summary": "Robust speaker diarization using adaptive feature aggregation."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Adaptive Multi-scale Speaker Diarization on DISPLACE 2024 Challenge Task",
+      "publisher": "PReMI 2024",
+      "releaseDate": "2026-04-21",
+      "website": "https://rdcu.be/fkkvU",
+      "summary": "Adaptive multi-scale diarization framework evaluated on DISPLACE 2024."
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
+  "presentations": [],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "course": "Artificial Intelligence and Data Instruction",
+      "institution": "Dr. Jivraj N. Mehta Government Polytechnic, Amreli",
+      "date": "2016-11-01",
+      "role": "Teaching and mentoring",
+      "description": "AI, data structures, and applied computing instruction."
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "Programming Instruction",
+      "institution": "Dr. Jivraj N. Mehta Government Polytechnic, Amreli",
+      "date": "2016-11-01",
+      "role": "Teaching and mentoring",
+      "description": "Python and Java programming guidance."
     }
   ],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
+      "name": "Speaker Diarization Research",
       "category": "portfolio",
       "date": "",
       "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "description": "Deep learning research on speaker identification and separation."
+    },
+    {
+      "name": "AI and IoT Curriculum Development",
+      "category": "portfolio",
+      "date": "",
+      "url": "",
+      "description": "Curriculum design and student mentoring in AI, IoT, and embedded systems."
     }
   ]
 }
