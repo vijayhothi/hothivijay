@@ -23,7 +23,7 @@ Research Interests
 * Edge AI and Lightweight Models for IoT Devices
 * Data Augmentation for Acoustic Robustness
 
-Publications
+Technical Skills
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}

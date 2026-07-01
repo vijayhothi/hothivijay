@@ -8,15 +8,15 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Vijay Hothi"
 title_separator          : "-"
 name                     : &name "Vijay Hothi"
-description              : &description "Vijay Hothi — Research Scholar in Speech Processing & Speaker Diarization at Gujarat Technological University"
-url                      : https://hothivijay.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+description              : &description "PhD Research Scholar, AI Researcher, and Speech Processing Specialist"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://vijayhothi.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "hothivijay/hothivijay"
+baseurl                  : "/hothivijay" # the subpath of your site, e.g. "/blog"
+repository               : "vijayhothi/hothivijay"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Vijay Hothi"
   pronouns         : # example: "she/her"  
-  bio              : "Research Scholar in Speech Processing & Speaker Diarization"
-  location         : "Ahmedabad, Gujarat, India"
-  employer         : "Gujarat Technological University"
-  uri              : # URL
-  email            : # email
+  bio              : "PhD Research Scholar focused on speaker diarization, speech AI, and deep learning for audio intelligence."
+  location         : "Gujarat, India"
+  employer         : "Dr. Jivraj N. Mehta Government Polytechnic"
+  uri              : "https://www.linkedin.com/in/hothi-vijay-4a952356/"
+  email            : "hothivijay@gmail.com" 
 
   # Academic websites
   academia         : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : # Username
+  bluesky          : # Username # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
